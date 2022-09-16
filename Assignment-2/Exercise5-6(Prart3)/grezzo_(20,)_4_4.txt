@@ -1,0 +1,1 @@
+{'fun': 'grezzo', 'args': (20,), 'n_threads': 4, 'seq_iter': 4, 'iter': 5, 'mean': 0.4486370799999918, 'variance': 0.0004699872544871038}
